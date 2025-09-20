@@ -1,7 +1,7 @@
 # Sublime Merge Mac Git Client – Powerful Git Tool for macOS
 
 <div align="center">
-<img src="https://media.tproger.ru/uploads/2018/09/merge-mini.png" alt="Sublime Merge Logo" width="256" height="256">
+<img src="https://media.tproger.ru/uploads/2018/09/merge-mini.png" alt="Sublime Merge Logo" width="500" height="500">
 </div>
 
 <div align="center">
